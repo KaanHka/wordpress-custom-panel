@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local / secrets — never commit real credentials
+wp-config.php
+*.log
+*.bak
+secrets.php
