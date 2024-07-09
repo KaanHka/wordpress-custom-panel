@@ -6,3 +6,4 @@ All notable changes to this project are documented here.
 - 2024-04-09 — cloudflare cache
 - 2024-05-14 — webp converter
 - 2024-06-11 — docs: install guide
+- 2024-07-09 — shop styles
