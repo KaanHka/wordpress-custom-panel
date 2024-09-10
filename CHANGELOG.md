@@ -8,3 +8,4 @@ All notable changes to this project are documented here.
 - 2024-06-11 — docs: install guide
 - 2024-07-09 — shop styles
 - 2024-08-13 — product ui
+- 2024-09-10 — theme ui
