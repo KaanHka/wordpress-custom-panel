@@ -11,3 +11,4 @@ All notable changes to this project are documented here.
 - 2024-09-10 — theme ui
 - 2024-10-08 — mobile dock
 - 2024-11-12 — custom cart
+- 2024-12-10 — checkout layout
