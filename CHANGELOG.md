@@ -14,3 +14,4 @@ All notable changes to this project are documented here.
 - 2024-12-10 — checkout layout
 - 2025-01-14 — gift message
 - 2025-02-11 — home preview
+- 2025-03-11 — analytics: sales/product reports
