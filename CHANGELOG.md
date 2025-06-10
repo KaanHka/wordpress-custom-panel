@@ -17,3 +17,4 @@ All notable changes to this project are documented here.
 - 2025-03-11 — analytics: sales/product reports
 - 2025-04-08 — docs: redis notes
 - 2025-05-13 — analytics: customer/geo
+- 2025-06-10 — panel: brands
