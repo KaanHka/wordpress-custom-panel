@@ -20,3 +20,4 @@ All notable changes to this project are documented here.
 - 2025-06-10 — panel: brands
 - 2025-07-08 — panel: bulk editor
 - 2025-08-12 — panel: csv import/export
+- 2025-09-09 — panel: cancel requests
