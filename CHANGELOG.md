@@ -22,3 +22,4 @@ All notable changes to this project are documented here.
 - 2025-08-12 — panel: csv import/export
 - 2025-09-09 — panel: cancel requests
 - 2025-10-14 — shipping tracking
+- 2025-11-11 — analytics: refund/tax
