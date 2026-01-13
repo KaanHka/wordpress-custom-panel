@@ -24,3 +24,4 @@ All notable changes to this project are documented here.
 - 2025-10-14 — shipping tracking
 - 2025-11-11 — analytics: refund/tax
 - 2025-12-09 — docs: config reference
+- 2026-01-13 — security hardening
