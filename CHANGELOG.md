@@ -28,3 +28,4 @@ All notable changes to this project are documented here.
 - 2026-02-10 — panel: pending tasks
 - 2026-03-10 — panel: integrations
 - 2026-04-14 — docs: screenshots/modules
+- 2026-05-12 — chore: cleanup
