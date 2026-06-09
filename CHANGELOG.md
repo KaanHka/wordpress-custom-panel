@@ -29,3 +29,4 @@ All notable changes to this project are documented here.
 - 2026-03-10 — panel: integrations
 - 2026-04-14 — docs: screenshots/modules
 - 2026-05-12 — chore: cleanup
+- 2026-06-09 — docs: finalize
