@@ -91,12 +91,6 @@ and add the matching rewrite alias in `.htaccess` (see `whitelabel-hardening.php
 
 ---
 
-## 🖼️ Screenshots
-
-_Add your own screenshots here (dashboard, orders, analytics, bulk editor)._
-
----
-
 ## 🧱 Architecture notes
 
 - Pure PHP, no framework/build step. The panel renders via `template_redirect` behind a rewrite rule; front‑end assets are enqueued only on panel routes.
